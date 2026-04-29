@@ -10,7 +10,7 @@ Me encontrei na área de dados, é o que eu gosto de fazer e que me encoraja a c
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Streamlit](https://camo.githubusercontent.com/8db6f323d631964e4fb9fb9718f8f5288cbce522ddc68d9f8e405630dc69e4e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53747265616d6c69742d4646344234423f7374796c653d666f722d7468652d6261646765266c6f676f3d53747265616d6c6974266c6f676f436f6c6f723d7768697465)
+![Streamlit]([https://camo.githubusercontent.com/8db6f323d631964e4fb9fb9718f8f5288cbce522ddc68d9f8e405630dc69e4e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53747265616d6c69742d4646344234423f7374796c653d666f722d7468652d6261646765266c6f676f3d53747265616d6c6974266c6f676f436f6c6f723d7768697465](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white))
 
 ### :open_file_folder: Bancos de Dados
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
