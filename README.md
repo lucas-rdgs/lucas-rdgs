@@ -1,8 +1,32 @@
 # 👋 Olá, muito prazer, eu sou Lucas Rodrigues
 
-Engenheiro Químico de formação, sou Analista de Dados com experiência em Business Intelligence.
+Engenheiro Químico com experiência como Analista de Dados na BAT Brasil, atuando com:
+- KPIs industriais
+- OEE / MTBF / perdas financeiras
+- Dashboards executivos
+- Power BI / Excel / SQL / Python
 
-Me encontrei na área de dados, é o que eu gosto de fazer e que me encoraja a crescer.
+
+## :rocket: Projetos em destaque
+- [Projeto de Regressão - Previsão de vendas de unidades de uma rede de farmácias](https://github.com/lucas-rdgs/Rossmann-Store-Sales)
+- [Projeto de Insights - Aumento do faturamento de uma empresa fictícia do ramo imobiliário](https://github.com/lucas-rdgs/Insights-Project-House-Rocket)
+- [Dashboard em Power BI - RH - Absenteísmo](https://github.com/lucas-rdgs/Dashboard-Absenteismo)
+- [Análise Exploratória de Dados - Separação gasosa com membranas de sílica](https://github.com/lucas-rdgs/Membranas-de-Silica)
+
+
+## :toolbox: Skills
+Power BI | SQL | Python | Excel | ETL | Data Visualization | Business Analysis
+
+
+## 🌎 Idiomas
+- Inglês fluente
+- Espanhol avançado
+
+
+## :mailbox_with_mail: Entre em contato comigo
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 28px"/>](https://linkedin.com/in/lucasrodrigues3)
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="height: 28px"/>](mailto:lucas.rdgs@outlook.com.br)
+
 
 ## :computer: Algumas ferramentas que eu trabalho
 
@@ -50,13 +74,6 @@ Me encontrei na área de dados, é o que eu gosto de fazer e que me encoraja a c
 ## :mailbox_with_mail: Entre em contato comigo
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 28px"/>](https://linkedin.com/in/lucasrodrigues3)
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="height: 28px"/>](mailto:lucas.rdgs@outlook.com.br)
-
-
-## :black_nib: Projetos de Portfólio
-- [Dashboard em Power BI - RH - Absenteísmo](https://github.com/lucas-rdgs/Dashboard-Absenteismo)
-- [Análise Exploratória de Dados - Separação gasosa com membranas de sílica](https://github.com/lucas-rdgs/Membranas-de-Silica)
-- [Projeto de Regressão - Previsão de vendas de unidades de uma rede de farmácias](https://github.com/lucas-rdgs/Rossmann-Store-Sales)
-- [Projeto de Insights - Aumento do faturamento de uma empresa fictícia do ramo imobiliário](https://github.com/lucas-rdgs/Insights-Project-House-Rocket)
 
 
 ## :notebook: O que estou estudando atualmente
