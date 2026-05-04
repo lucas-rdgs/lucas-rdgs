@@ -71,11 +71,6 @@ Power BI | SQL | Python | Excel | ETL | Data Visualization | Business Analysis
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## :mailbox_with_mail: Entre em contato comigo
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 28px"/>](https://linkedin.com/in/lucasrodrigues3)
-[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="height: 28px"/>](mailto:lucas.rdgs@outlook.com.br)
-
-
 ## :notebook: O que estou estudando atualmente
 - Visualização de Dados
 - Storytelling
